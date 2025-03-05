@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTextBox", "ValidateTextBox.csproj", "{EB5E17B6-EDF6-4167-AFE2-EB35BEB01B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_ejercicio_5", "..\Prueba_ejercicio_5\Prueba_ejercicio_5.csproj", "{0714FA98-EA78-474D-ACEB-55F9606D731F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5E17B6-EDF6-4167-AFE2-EB35BEB01B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5E17B6-EDF6-4167-AFE2-EB35BEB01B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5E17B6-EDF6-4167-AFE2-EB35BEB01B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5E17B6-EDF6-4167-AFE2-EB35BEB01B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91090807-8C52-4200-9C37-77C771D9BCDD}
+	EndGlobalSection
+EndGlobal
