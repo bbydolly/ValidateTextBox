@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTextBox", "Validate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_ejercicio_5", "..\Prueba_ejercicio_5\Prueba_ejercicio_5.csproj", "{0714FA98-EA78-474D-ACEB-55F9606D731F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{CFEB6C97-9EC8-403D-B686-C71D04473B63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0714FA98-EA78-474D-ACEB-55F9606D731F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEB6C97-9EC8-403D-B686-C71D04473B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEB6C97-9EC8-403D-B686-C71D04473B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEB6C97-9EC8-403D-B686-C71D04473B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEB6C97-9EC8-403D-B686-C71D04473B63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

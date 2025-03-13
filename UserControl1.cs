@@ -12,7 +12,9 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.Remoting.Messaging;
 
-namespace ValidateTextBox
+
+//TODO validar
+namespace ValidateTextBox// Geometria rectángulo. numero en textual (camdio de tipo).. Evento
 {
 
     //Declaración del enumerado 
@@ -83,7 +85,10 @@ namespace ValidateTextBox
 
 
                         Debug.WriteLine(flag + " bandera");
-                        if (flag) { color = Color.Green; }
+                        if (flag) 
+                        {
+                            color = Color.Green; 
+                        }
                         if (!flag) { color = Color.Red; /*isRecursivo = true;*/ }
                     }
 
